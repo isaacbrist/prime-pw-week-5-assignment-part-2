@@ -1,0 +1,20 @@
+.recordPic{ 
+    background: url(\record.png); 
+    background-repeat: repeat;
+  }
+  
+
+.intro{
+    background-color: #1b5e20;
+    color: #ff7961;
+    text-align: center;
+}
+
+.primary{
+    background-color: lightgray;
+    padding: 1em
+}
+
+body{
+    margin: 0
+}
